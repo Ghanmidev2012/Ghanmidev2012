@@ -1,8 +1,10 @@
 <h1 align="center">Hey 👋What's Up?</h1>
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/VrzXhtoSwcsAAAAd/hacker-typing.gif" />
+</div>
 
-###
 
-<p align="center">aboute me</p>
+<h1 align="center">aboute me</h1>
 
 ###
 
@@ -10,7 +12,7 @@
 
 ###
 
-<p align="center">tools and laungage</p>
+<h1 align="center">tools and laungage</h1>
 
 ###
 
