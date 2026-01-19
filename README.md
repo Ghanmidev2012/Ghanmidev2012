@@ -32,9 +32,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1458842728153485517/1458843665416982609) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghanmidev2012)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghanmidev2012&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghanmidev2012&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghanmidev2012&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanmidev2012&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
