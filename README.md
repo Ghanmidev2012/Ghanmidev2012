@@ -17,6 +17,7 @@ My name is adam ghanmi,i live in morocco.<br>i devlopper for fontend,programming
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ghanmidev2012&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanmidev2012)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
