@@ -1,4 +1,16 @@
-# 💫 About Me:
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20I'm%20GD12&fontSize=80&animation=fadeIn&fontAlignY=38" width="100%" />
+
+  <br />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FEFF&center=true&vCenter=true&width=435&lines=fontend+devlopper;UI/UX+figma;progrmming+with+python+golang" alt="Typing SVG" />
+
+  <br />
+
+
+
+---
+## About me
 My name is adam ghanmi,i live in morocco.<br>i devlopper for fontend,programming
 
 
@@ -6,19 +18,43 @@ My name is adam ghanmi,i live in morocco.<br>i devlopper for fontend,programming
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/upbQNzWn) 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ghanmidev2012&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ghanmidev2012&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanmidev2012&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+
+
+
+<a href="https://python.org">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=python&animation=bounce&animationDuration=2&size=50" alt="Python" />
+</a>
+
+<a href="https://go.dev">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=go&animation=pulse&animationDuration=2&size=50" alt="Golang" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=html5&animation=glow&animationDuration=2&size=50" alt="HTML5" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=css3&animation=shake&animationDuration=3&size=50" alt="CSS3" />
+</a>
+
+<a href="https://reactjs.org">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=50" alt="React" />
+</a>
+
+
+
+</div>
+
+<br><br>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Ghanmidev2012&show_icons=true&theme=tokyonight" /><img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=solarized-light&hide_border=true" />
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ghanmidev2012&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ghanmidev2012&theme=tokyonight" style="height:160px" alt="Top Languages" height="160px"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Your Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ghanmidev2012&layout=compact&theme=radical&hide_border=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
