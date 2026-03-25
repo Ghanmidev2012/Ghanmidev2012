@@ -1,62 +1,48 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20I'm%20GD12&fontSize=80&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&secondaryColor=1E293B&height=250&section=header&text=Hi%20I'm%20Adam&fontSize=80&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <br />
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FEFF&center=true&vCenter=true&width=435&lines=fontend+devlopper;UI/UX+figma;progrmming+with+python+golang" alt="Typing SVG" />
-
-  <br />
-
-
-
----
-## About me
-My name is adam ghanmi,i live in morocco.<br>i devlopper for fontend,programming
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/upbQNzWn) 
-
-# 💻 Tech Stack:
-<div align="center">
-
-
-
-<a href="https://python.org">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=python&animation=bounce&animationDuration=2&size=50" alt="Python" />
-</a>
-
-<a href="https://go.dev">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=go&animation=pulse&animationDuration=2&size=50" alt="Golang" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=html5&animation=glow&animationDuration=2&size=50" alt="HTML5" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=css3&animation=shake&animationDuration=3&size=50" alt="CSS3" />
-</a>
-
-<a href="https://reactjs.org">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=50" alt="React" />
-</a>
-
-
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=818CF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI/UX+Designer+(Figma);Programming+with+Python+%26+Go;Building+Modern+SaaS+Interfaces" alt="Typing SVG" />
 </div>
 
-<br><br>
+---
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Ghanmidev2012&show_icons=true&theme=tokyonight" /><img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=solarized-light&hide_border=true" />
+## 👨‍💻 About Me
+I'm **Adam Ghanmi**, a developer from **Morocco** 🇲🇦. I specialize in crafting clean, modern web interfaces and exploring efficient programming solutions. I focus on creating high-quality frontend experiences with a professional touch.
 
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ghanmidev2012&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🌐 Connect with Me:
+<div align="left">
+<a href="https://discord.gg/upbQNzWn" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://github.com/Ghanmidev2012" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</div>
 
-![Your Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ghanmidev2012&layout=compact&theme=radical&hide_border=true)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+## 💻 Tech Stack:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,html,css,react,figma,js,vscode&perline=8" />
+</div>
 
+---
+
+## 📊 GitHub Analytics:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanmidev2012&layout=compact&theme=tokyonight&bg_color=1e293b&title_color=818cf8&text_color=cbd5e1&hide_border=true" alt="Most Used Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghanmidev2012&show_icons=true&theme=tokyonight&bg_color=1e293b&title_color=818cf8&icon_color=4f46e5&text_color=cbd5e1&hide_border=true" alt="Adam's Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghanmidev2012&theme=tokyonight&background=1e293b&fire=4f46e5&ring=818cf8&sideNums=cbd5e1&hide_border=true" alt="Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=1e293b&quote_color=818cf8&author_color=cbd5e1" alt="Quote" />
+</div>
 
 
