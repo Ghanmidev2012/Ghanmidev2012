@@ -30,13 +30,19 @@ I'm **Adam Ghanmi**, a developer from **Morocco** 🇲🇦. I specialize in craf
 ---
 
 ## 📊 GitHub Analytics:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanmidev2012&layout=compact&theme=tokyonight&bg_color=1e293b&title_color=818cf8&text_color=cbd5e1&hide_border=true" alt="Most Used Languages" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghanmidev2012&show_icons=true&theme=tokyonight&bg_color=1e293b&title_color=818cf8&icon_color=4f46e5&text_color=cbd5e1&hide_border=true" alt="Adam's Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghanmidev2012&theme=tokyonight&background=1e293b&fire=4f46e5&ring=818cf8&sideNums=cbd5e1&hide_border=true" alt="Streak Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.azurewebsites.net/api?username=Ghanmidev2012&show_icons=true&theme=tokyonight&hide_border=true" alt="Ghanmidev Stats" height="165px" />
+  
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=Ghanmidev2012&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghanmidev2012&theme=tokyonight&hide_border=true" alt="Ghanmidev Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghanmidev2012&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
 
 ---
 
