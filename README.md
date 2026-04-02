@@ -25,9 +25,8 @@ I'm **Adam Ghanmi**, a developer from **Morocco** 🇲🇦. I specialize in craf
 
 ## 💻 Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,html,css,react,figma,js,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=lua,python,go,html,css,react,figma,js,vscode&perline=9" />
 </div>
-
 ---
 
 ## 📊 GitHub Analytics:
