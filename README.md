@@ -41,9 +41,11 @@ I'm **Adam Ghanmi**, a developer from **Morocco** 🇲🇦. I specialize in craf
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghanmidev2012&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Ghanmidev2012&cc=1a1b27&tc=c0caf5&ic=7aa2f7" alt="GitHub Stats" style="height:160px" height="160px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ghanmidev2012&theme=tokyonight" style="height:160px" alt="Top Languages" height="160px"/>
+<p align="center">
+<img src="https://git-streak.0xarchit.is-a.dev/?user=gasserdev&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=4" />
 </p>
-
 ---
 
 <div align="center">
