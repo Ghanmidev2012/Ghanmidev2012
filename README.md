@@ -35,6 +35,7 @@ I'm **Adam Ghanmi**, a developer from **Morocco** 🇲🇦. I specialize in craf
   
   <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=Ghanmidev2012&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165px" />
 </p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanmidev2012&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="170" />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghanmidev2012&theme=tokyonight&hide_border=true" alt="Ghanmidev Streak" />
