@@ -79,7 +79,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghanmidev2012&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanmidev2012&theme=github_dark&layout=compact&langs_count=10&hide_border=true&show_icons=true%22"/> <br>
   <img src="https://streak-stats.demolab.com?user=Ghanmidev2012&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
