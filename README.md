@@ -1,94 +1,68 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<!-- Typing Text Animation & Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Adam+Ghanmi;A+14-Year-Old+Developer;Robotics+%26+Software+Enthusiast" alt="Typing SVG" />
+</p>
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Header Line" width="100%"/>
+</p>
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+### 🚀 About Me
 
-<img src="https://raw.githubusercontent.com/Ghanmidev2012/Ghanmidev2012/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R6cnM5d3RkcW90Y3RnbW9wM2NscHpxZXF6Z3F1azFmZ3R5ZndpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="180" alt="Robotics Code GIF">
 
-###
+* 🇲🇦 **Location:** Based in Morocco.
+* ⏳ **Age & Experience:** I am 14 years old, and I started my programming journey when I was 10 (4 years of coding experience!).
+* 🧠 **Interests:** Deeply passionate about systems programming, robotics engineering, web development, and creating game engines.
+* ⚙️ **Current Focus:** Building smart tools, automating workflows, and refining my software development skills every day.
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+### 🏆 Competitions & Achievements
 
-<p align="left">hi,my name is adam ghanmi,i live in morocco, i have 13 years old, i love coding.</p>
+* 🏅 **VEX GO Competition (May 25, 2024)** – Participated as the **Lead Coder / Programmer**, where I was responsible for designing, writing, and debugging the logic and autonomous code for the robot.
 
-###
+---
 
-<h3 align="left">🛠 Language</h3>
+### 🛠️ Skills & Technologies
 
-###
+<h3 align="left">🤖 Robotics & Hardware</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/VEX%20GO-🤖-red?style=for-the-badge" alt="VEX GO"/>
+  <img src="https://img.shields.io/badge/LEGO%20Mindstorms-005A9C?style=for-the-badge&logo=lego&logoColor=white" alt="LEGO Mindstorms"/>
+  <img src="https://img.shields.io/badge/LEGO%20WeDo-0085CA?style=for-the-badge&logo=lego&logoColor=white" alt="LEGO WeDo"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42" alt="go logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="42" alt="lua logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="42" alt="java logo"  />
-</div>
+<h3 align="left">💻 Programming Languages</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
 
-###
+<h3 align="left">🌐 Front-End Development</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
 
-<h3 align="left">Frontend</h3>
+---
 
-###
+### 📊 Dynamic Cards (Non-Vercel Stable Mirror)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
+<p align="center">
+  <!-- GitHub Stats Card using a reliable alternative community mirror -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ghanmidev2012&show_icons=true&theme=tokyonight&count_private=true" alt="Adam's GitHub Stats" width="48%"/>
+  <!-- Top Languages Card using a reliable alternative community mirror -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ghanmidev2012&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+</p>
 
-###
+---
 
-<h3 align="left">IDE</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">OS</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ghanmidev2012/Ghanmidev2012/languages-output/languages.svg" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Ghanmidev2012&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
