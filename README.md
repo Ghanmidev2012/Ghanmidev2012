@@ -55,14 +55,13 @@
 
 ---
 
-### 📊 Dynamic Cards (Non-Vercel Stable Mirror)
 
-<p align="center">
-  <!-- GitHub Stats Card using a reliable alternative community mirror -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ghanmidev2012&show_icons=true&theme=tokyonight&count_private=true" alt="Adam's GitHub Stats" width="48%"/>
-  <!-- Top Languages Card using a reliable alternative community mirror -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ghanmidev2012&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghanmidev2012&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghanmidev2012&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 ---
 
