@@ -8,60 +8,24 @@
 </p>
 
 ---
+# 💫 About Me:
+My name is Adam Ghanmi, i have 14 yeras old, I am frontend dev,<br>UI/UX desinger and programme with programming langauge.<br><br><br>
 
-### 🚀 About Me
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R6cnM5d3RkcW90Y3RnbW9wM2NscHpxZXF6Z3F1azFmZ3R5ZndpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="180" alt="Robotics Code GIF">
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ghanmidev2012&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ghanmidev2012&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ghanmidev2012&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-* 🇲🇦 **Location:** Based in Morocco.
-* ⏳ **Age & Experience:** I am 14 years old, and I started my programming journey when I was 10 (4 years of coding experience!).
-* 🧠 **Interests:** Deeply passionate about systems programming, robotics engineering, web development, and creating game engines.
-* ⚙️ **Current Focus:** Building smart tools, automating workflows, and refining my software development skills every day.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 🏆 Competitions & Achievements
-
-* 🏅 **VEX GO Competition (May 25, 2024)** – Participated as the **Lead Coder / Programmer**, where I was responsible for designing, writing, and debugging the logic and autonomous code for the robot.
-
----
-
-### 🛠️ Skills & Technologies
-
-<h3 align="left">🤖 Robotics & Hardware</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/VEX%20GO-🤖-red?style=for-the-badge" alt="VEX GO"/>
-  <img src="https://img.shields.io/badge/LEGO%20Mindstorms-005A9C?style=for-the-badge&logo=lego&logoColor=white" alt="LEGO Mindstorms"/>
-  <img src="https://img.shields.io/badge/LEGO%20WeDo-0085CA?style=for-the-badge&logo=lego&logoColor=white" alt="LEGO WeDo"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
-</p>
-
-<h3 align="left">💻 Programming Languages</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
-<h3 align="left">🌐 Front-End Development</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ghanmidev2012&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Ghanmidev2012&icon=2&color=3)](https://visitcount.itsvg.in)
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghanmidev2012&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghanmidev2012&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
