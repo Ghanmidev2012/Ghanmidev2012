@@ -23,11 +23,7 @@ My name is Adam Ghanmi, i have 14 yeras old, I am frontend dev,<br>UI/UX desinge
 <p align="center">
 
 
-![](https://github-readme-stats.shion.dev/api?username=Ghanmidev2012&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ghanmidev2012&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ghanmidev2012&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
-
+![Xgui4's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanmidev2012&langs_count=20&layout=pie&theme=dracula)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
