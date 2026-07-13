@@ -46,18 +46,4 @@ My name is Adam Ghanmi, i have 14 yeras old, I am frontend dev,<br>UI/UX desinge
 
 
 # 📊 GitHub Stats:
-<p align="center">
-
-
-![Xgui4's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanmidev2012&langs_count=20&layout=pie&theme=dracula)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ghanmidev2012&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Ghanmidev2012&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanmidev2012&layout=compact)
