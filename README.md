@@ -20,7 +20,7 @@ My name is Adam Ghanmi, i have 14 yeras old, I am frontend dev,<br>UI/UX desinge
 
 ### ⚙️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=github,npm,n8n" />
+  <img src="https://skillicons.dev/icons?i=github,npm,nodejs" />
 </p>
 
 ### 💡 Programming Languages
@@ -30,12 +30,17 @@ My name is Adam Ghanmi, i have 14 yeras old, I am frontend dev,<br>UI/UX desinge
 
 ### 🖥️ OS & CLI
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,kali" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,kali,mint" />
+</p>
+
+### IDE
+<p>
+  <img src="https://skillicons.dev/icons?i=vim,vscode" />
 </p>
 
 ### 🎨 Design & UI/UX
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,canvas" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 
