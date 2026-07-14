@@ -35,7 +35,9 @@ My name is Adam Ghanmi, i have 14 yeras old, I am frontend dev,<br>UI/UX desinge
 
 ### IDE
 <p>
+  
   <img src="https://skillicons.dev/icons?i=vim,vscode" />
+
 </p>
 
 ### 🎨 Design & UI/UX
@@ -43,6 +45,14 @@ My name is Adam Ghanmi, i have 14 yeras old, I am frontend dev,<br>UI/UX desinge
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
+### Follow me at
+<p>
+  
+   <a href="https://dev.to/ghanmidev2012">
+  <img src="https://skillicons.dev/icons?i=devto" />
+   </a>
+ 
+</p>
 
 
 # 📊 GitHub Stats:
