@@ -56,4 +56,5 @@ My name is Adam Ghanmi, i have 14 yeras old, I am frontend dev,<br>UI/UX desinge
 
 
 # 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanmidev2012&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ghanmidev2012&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Ghanmidev2012&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
