@@ -30,7 +30,7 @@ My name is Adam Ghanmi, i have 14 yeras old, I am frontend dev,<br>UI/UX desinge
 
 ### 🖥️ OS & CLI
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,kali,mint" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,kali,mint,bash" />
 </p>
 
 ### IDE
